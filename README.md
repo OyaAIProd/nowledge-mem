@@ -1,5 +1,7 @@
 # 🧠 nowledge-mem - Manage Your Memory with Ease
 
+[![SafeSkill 90/100](https://img.shields.io/badge/SafeSkill-90%2F100_Verified%20Safe-brightgreen)](https://safeskill.dev/scan/reneeviolent774-nowledge-mem)
+
 ## 🚀 Getting Started
 
 Welcome to nowledge-mem! This application helps you manage your memory and context efficiently. It's designed for quick setup and ease of use, even if you aren’t familiar with programming.
